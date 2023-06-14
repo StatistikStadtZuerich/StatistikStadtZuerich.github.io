@@ -1,0 +1,9 @@
+---
+title: "Statistik Stadt Zürich auf GitHub"
+---
+
+Dies ist das Zuhause von Statistik Stadt Zürich (SSZ) auf GitHub.
+
+Unsere öffentlichen Code-Repositories liegen [hier](https://github.com/StatistikStadtZuerich).
+
+Für andere Anliegen besuchen Sie unsere [Website](https://www.stadt-zuerich.ch/prd/de/index/statistik.html).
