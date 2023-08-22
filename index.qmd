@@ -2,8 +2,16 @@
 title: "Statistik Stadt Zürich auf GitHub"
 ---
 
+::: {style="text-align: right"}
+![](logo_stzh_ssz_rgb_blau_digital.svg){fig-alt="Logo_SSZ"}
+:::
+
 Dies ist das Zuhause von Statistik Stadt Zürich (SSZ) auf GitHub.
 
 Unsere öffentlichen Code-Repositories liegen [hier](https://github.com/StatistikStadtZuerich).
+
+## Inhalt
+
+1.  [Bevölkerungsszenarien](https://statistikstadtzuerich.github.io/BevSzen/): Dokumentation der Plausibilierung
 
 Für andere Anliegen besuchen Sie unsere [Website](https://www.stadt-zuerich.ch/prd/de/index/statistik.html).
